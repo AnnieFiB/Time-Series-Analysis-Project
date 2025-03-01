@@ -1,6 +1,12 @@
 # Time-Series-Analysis-Project
  Forecasting Stock Prices Using ARIMA Models
 
+
+Run .ipynb files:
+https://colab.research.google.com/github/AnnieFiB/Time-Series-Analysis-Project/blob/main/ARIMA%20Forecasting%20Apple%20Stock%20Prices.ipynb
+
+https://colab.research.google.com/github/AnnieFiB/Time-Series-Analysis-Project/blob/main/ARIMA%20Forecasting%20Google%20Stock%20Prices-.ipynb
+
 *Objectives:*
 > Predict future stock values based on historical data.
 >Understand the trend, seasonality, and other patterns in the time series.
